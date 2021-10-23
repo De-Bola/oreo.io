@@ -9,5 +9,5 @@ this branch has files from
 
 ### EMBEDDED SYSTEMS
 
-using Tiva C Series link to datasheet
+using Tiva C Series MCU link to datasheet
 =>  https://www.ti.com/lit/ds/spms376e/spms376e.pdf
