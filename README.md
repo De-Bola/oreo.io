@@ -5,6 +5,6 @@ now is time to re-purpose it
 
 this repo has files from 
 
-## IEE1730 
+## IAS0330 
 
-### HW & SW Aspets of MCUs
+### EMBEDDED SYSTEMS
