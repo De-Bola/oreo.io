@@ -1,1 +1,0 @@
-"./main.obj" "./timer_a.obj" "../lnk_msp430g2553.cmd" -llibc.a 
