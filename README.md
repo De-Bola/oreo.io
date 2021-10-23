@@ -10,3 +10,4 @@ this branch has files from
 ### HW & SW Aspets of MCUs
 
 using MSP430 MCU
+link to datasheet => https://www.ti.com/lit/ds/symlink/msp430g2553.pdf?ts=1634960425001
