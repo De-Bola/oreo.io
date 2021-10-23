@@ -8,3 +8,6 @@ this branch has files from
 ## IAS0330 
 
 ### EMBEDDED SYSTEMS
+
+using Tiva C Series link to datasheet
+=>  https://www.ti.com/lit/ds/spms376e/spms376e.pdf
