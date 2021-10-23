@@ -8,3 +8,5 @@ this branch has files from
 ## IEE1730 
 
 ### HW & SW Aspets of MCUs
+
+using MSP430 MCU
